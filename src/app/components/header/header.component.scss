@@ -1,0 +1,16 @@
+nav {
+  display: flex;
+  justify-content: space-evenly;
+  div {
+    width: 50px;
+    height: auto;
+    img {
+      width: 100%;
+    }
+  }
+  ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+  }
+}
